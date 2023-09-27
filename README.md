@@ -1,4 +1,4 @@
-### Hey eu sou a Amanda👋
+## Heeyy dev, quem vos fala é a Amanda!!
 
 
 ![AmandaG1s GitHub stats](https://github-readme-stats.vercel.app/api?username=AmandaG1s&show_icons=true&theme=dracula)
