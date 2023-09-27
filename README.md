@@ -10,6 +10,7 @@
 <div  align="right"> 
   <div style="display: inline_block"><br>
     <img align="left" height="230" alt="nyan-cat" src="https://github.com/AmandaG1s/Projetos_off/blob/main/nyan-cat.gif?raw=true">
+  <img align="centro" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <h3 align="center"> Estudante de Ciência da Computação </h3>
     <h3 align="center"> Hoje estudando a linguagem C </h3>
   
