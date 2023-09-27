@@ -10,19 +10,12 @@
 
 <div  align="right"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="nyan-cat" src="![nyan-cat](https://github.com/AmandaG1s/AmandaG1s/assets/127699422/108cd0b5-e687-40f8-ad30-281436be6361)">
-    <h1 align="center">Melhores Tecnologias <3</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+    <img align="left" height="230" alt="nyan-cat" src="https://github.com/AmandaG1s/Projetos_off/blob/main/nyan-cat.gif?raw=true">
+    <h3 align="center"> Estudante de Ciência da Computação </h3>
+    <h3 align="center"> Hoje estudando a linguagem C </h3>
+  
    </div>
 
-- 🔭 Hoje estudando a linguagem C
-- 🌱 Estudante de Ciência da Computação
-- 😄 Pronouns:ela/dela
+
 
 
