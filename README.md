@@ -9,7 +9,7 @@
 
 <div  align="right"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="200" alt="nyan-cat" src="https://github.com/AmandaG1s/Projetos_off/blob/main/nyan-cat.gif?raw=true">
+    <img align="left" height="260" alt="nyan-cat" src="https://github.com/AmandaG1s/Projetos_off/blob/main/nyan-cat.gif?raw=true">
     <h3 align="center"> Estudante de Ciência da Computação </h3>
     <h3 align="center"> Hoje estudando a linguagem C </h3>
   
