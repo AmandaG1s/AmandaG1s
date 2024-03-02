@@ -19,7 +19,7 @@
           
   <br>
     <h4 align="left"> Estudante de Ciência da Computação </h4>
-    <h4 align="left"> Hoje estudando a linguagem C & Python </h4>
+    <h4 align="left"> Hoje estudando a linguagem C & Java </h4>
   
    </div>
   <a href = "mailto:amandagomesof05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
