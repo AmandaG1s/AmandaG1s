@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📚I'm a Computer Science student at the Federal University of Uberlândia.<br>🌟 In my spare time I like to model 3D figures and work on personal programs.🎮 Geek culture and gaming.<br>🏞️ Nature lover & outdoor explorer</p>
+<p align="left">📚I'm a Computer Science student at the Federal University of Uberlândia.<br>🌟 In my spare time I like to model 3D figures and work on personal programs.<br>🎮 Geek culture and gaming.<br>🏞️ Nature lover & outdoor explorer</p>
 
 ###
 
