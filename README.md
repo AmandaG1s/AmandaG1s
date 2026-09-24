@@ -45,3 +45,4 @@
 <img src="https://raw.githubusercontent.com/AmandaG1s/AmandaG1s/output/snake.svg" alt="Snake animation" />
 
 ###
+
